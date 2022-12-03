@@ -1,0 +1,35 @@
+body{
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.time{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   color: chartreuse;
+   font-size: 5rem;
+   font-family: "Orbitron", sans-serif;
+   text-shadow: 0 0 15px currentColor;
+   background-image: url();
+}
+
+#navbar{
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    top: 50%;
+    left: 50%;
+    font-size: 250%;
+    margin: 15px 10px;
+    background-color: blue;
+}
+
+.footer{
+    color: #fff;
+    text-align: center;
+    font-size: 1.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 3px 8px currentColor;
+}
